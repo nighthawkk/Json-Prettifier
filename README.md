@@ -1,2 +1,2 @@
 # Json-Prettifier
- ## A simple php JSON Formatter.
+ ## A simple JSON Formatter.
