@@ -1,2 +1,2 @@
 # Json-Prettifier
- ## A simple JSON Formatter.
+ ## Simple JSON Formatter.
